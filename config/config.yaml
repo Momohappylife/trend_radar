@@ -361,7 +361,7 @@ ai:
 
   api_key: "AIzaSyBTbvUrjrE2yaKwjiJ3KalQCGxtKSeUl-w"                       # API Key（建议使用环境变量 AI_API_KEY）
   
-  api_base: "https://gemini-playground.daniel-ai-chat.workers.dev/v1"                      # 自定义 API 地址（可选，绝大多数情况留空即可）
+  api_base: ""                      # 自定义 API 地址（可选，绝大多数情况留空即可）
                                     #
                                     # ❓ 什么时候需要填？
                                     #    当你使用的 AI 服务商不在上方支持列表中时。
